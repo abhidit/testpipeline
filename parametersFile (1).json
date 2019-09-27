@@ -5,6 +5,11 @@
     "webAppName": {
       "value": "testpipeline"
     },
+    		"appServicePlanName": {
+            "value": "demoappplan",
+            "metadata": {
+                "description": "A unique name for AppServicePlan"
+            },
     "sku": {
       "value": "S1"
     },
