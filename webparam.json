@@ -3,13 +3,13 @@
 	"contentVersion": "1.0",
 	"parameters": {	
 		"webAppName": {
-            "value": "demotestapp",
+            "value": "papaya",
             "metadata": {
                 "description": "A unique name for webApp"
             }
         },
 		"appServicePlanName": {
-            "value": "demotestasplan",
+            "value": "papayaplan",
             "metadata": {
                 "description": "A unique name for AppServicePlan"
             }
