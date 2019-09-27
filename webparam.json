@@ -3,7 +3,7 @@
 	"contentVersion": "1.0",
 	"parameters": {	
 		"webAppName": {
-            "value": "asdfghjkl",
+            "value": "aboutwebapp",
             "metadata": {
                 "description": "A unique name for webApp"
             }
