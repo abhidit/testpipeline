@@ -58,7 +58,7 @@
             "name": "[parameters('webAppName')]",
             "location": "[parameters('Location')]",
             "properties": {
-                "serverFarmId": "[parameters('appServicePlanName')]"
+                "serverFarmId": "[parameters('appServicePlanName')]"
             },
             "dependsOn": [
                 "[parameters('appServicePlanName')]"
