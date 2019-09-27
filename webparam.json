@@ -3,13 +3,13 @@
 	"contentVersion": "1.0",
 	"parameters": {	
 		"webAppName": {
-            "value": "aboutwebapp",
+            "value": "was-test-app",
             "metadata": {
                 "description": "A unique name for webApp"
             }
         },
 		"appServicePlanName": {
-            "value": "asdfghjklplan",
+            "value": "asp-test-app",
             "metadata": {
                 "description": "A unique name for AppServicePlan"
             }
