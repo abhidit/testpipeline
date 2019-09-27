@@ -3,8 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "$env"
+      "value": "abc"
     },
+    		"appServicePlanName": {
+            "value": "demoappplan",
+            "metadata": {
+                "description": "A unique name for AppServicePlan"
+            },
     "sku": {
       "value": "S1"
     },
