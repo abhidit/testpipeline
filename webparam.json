@@ -3,13 +3,13 @@
 	"contentVersion": "1.0",
 	"parameters": {	
 		"webAppName": {
-            "value": "papaya",
+            "value": "asdfghjkl",
             "metadata": {
                 "description": "A unique name for webApp"
             }
         },
 		"appServicePlanName": {
-            "value": "papayaplan",
+            "value": "asdfghjklplan",
             "metadata": {
                 "description": "A unique name for AppServicePlan"
             }
