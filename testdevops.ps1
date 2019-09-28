@@ -1,7 +1,10 @@
+[CmdletBinding()]
+param( $siten,
+       $pname
+)
 
-
-$appname="ttttt1"
-$aspname="aspttttt1"
+$appname=$siten
+$aspname=$pname
 $rg="testdevops"
 $loc="Central US"
 
