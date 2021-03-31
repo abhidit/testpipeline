@@ -63,18 +63,7 @@
         "siteConfig": {
           "linuxFxVersion": "[parameters('linuxFxVersion')]"
         }
-      },
-      "resources": [
-          {
-            "type": "sourcecontrols",
-            "apiVersion": "2020-06-01",
-            "name": "web",
-            "location": "[parameters('location')]",
-            "dependsOn": [
-              "[resourceId('Microsoft.Web/sites', parameters('webAppName'))]"
-            ]
-          }
-        ]
+      }
     }
   ]
 }
